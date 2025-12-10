@@ -1,0 +1,23 @@
+player,team,position,STL,BLK,AST,TRB,PTS,r
+Paul George,CLIPPERS,guard_wing,1,0,5,5,5,-0.13
+Kawhi Leonard,CLIPPERS,guard_wing,1,0,0,3,51,5.15
+Russell Westbrook,CLIPPERS,guard_wing,0,0,2,5,11,-0.42
+Ivica Zubac,CLIPPERS,post_forward,0,0,1,15,7,2.04
+Mason Plumlee,CLIPPERS,post_forward,0,0,1,2,9,3.22
+Marcus Morris,CLIPPERS,post_forward,0,0,1,9,20,-1.48
+Kenyon Martin Jr,CLIPPERS,guard_wing,0,0,0,6,7,0.74
+Norman Powell,CLIPPERS,guard_wing,1,0,2,2,1,-2.93
+Terance Mann,CLIPPERS,guard_wing,0,0,2,3,5,-0.01
+Nicolas Batum,CLIPPERS,post_forward,0,0,1,3,5,0.89
+CLIPPERS,CLIPPERS,NA,3,0,15,53,121,7.07
+Dejounte Murray,HAWKS,guard_wing,0,0,5,5,10,0.17
+Trae Young,HAWKS,guard_wing,0,0,9,2,30,-0.47
+De Andre Hunter,HAWKS,guard_wing,0,0,1,8,13,-0.12
+Saddiq Bey,HAWKS,guard_wing,0,0,1,5,8,-0.99
+Bogdan Bogdanovic,HAWKS,guard_wing,0,0,1,2,19,-0.5
+Clint Capela,HAWKS,post_forward,0,0,0,8,10,3.11
+Onyeka Okongwu,HAWKS,post_forward,0,1,1,5,7,3.04
+AJ Griffin,HAWKS,guard_wing,0,0,0,1,16,0.27
+Wesley Matthews,HAWKS,guard_wing,0,0,0,2,1,-1.21
+Jalen Johnson,HAWKS,guard_wing,0,0,0,2,4,0.26
+HAWKS,HAWKS,NA,0,1,18,40,118,3.56
